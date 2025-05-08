@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gazi Meraz Mehedi Afridi</h1>
-<h4 align="left">Hi! I'm a Computer Science graduate with a strong interest in Artificial Intelligence and its real-world applications. I focus on areas like Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I’ve worked on a variety of projects involving data science, pattern recognition, predictive modeling, and image processing. I enjoy solving real problems using smart tech. 
+<h4 align="left">I'm a Computer Science graduate with a strong interest in Artificial Intelligence and its real-world applications. I focus on areas like Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I’ve worked on a variety of projects involving data science, pattern recognition, predictive modeling, and image processing. I enjoy solving real problems using smart tech. 
 
 I’m comfortable working with languages like Python, Java, C, C++, JavaScript, PHP, HTML, and SQL. I also use a bunch of tools and frameworks including TensorFlow, Keras, PyTorch, Scikitlearn, MLflow, Ollama, Hugging Face, and OpenCV. When it comes to data, I regularly use libraries like NumPy, Pandas, Matplotlib, Seaborn, and SciPy for analysis and visualization. I’ve also worked with cloud platforms and deployment tools like AWS, Google Cloud, and Docker.
 
