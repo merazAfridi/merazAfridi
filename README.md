@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gazi Meraz Mehedi Afridi</h1>
-<h4 align="left">I'm a Computer Science graduate with a strong interest in Artificial Intelligence and its real-world applications. I focus on areas like Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I’ve worked on a variety of projects involving data science, pattern recognition, predictive modeling, and image processing. I enjoy solving real problems using smart tech. 
+<h4 align="left">I'm a Computer Science graduate with a strong interest in Artificial Intelligence and its real world applications. I focus on areas like Machine Learning, Deep Learning, Natural Language Processing and Computer Vision. I’ve worked on a variety of projects involving data science, pattern recognition, predictive modeling and image processing.
+  
+I’m comfortable working with languages like Python, Java, C, C++, JavaScript, PHP, HTML, and SQL. I also use a bunch of tools and frameworks including TensorFlow, Keras, PyTorch, Scikitlearn, MLflow, Ollama, Hugging Face and OpenCV. When it comes to data, I regularly use libraries like NumPy, Pandas, Matplotlib, Seaborn, and SciPy for analysis and visualization. I’ve also worked with cloud platforms and deployment tools like AWS, Google Cloud and Docker.
 
-I’m comfortable working with languages like Python, Java, C, C++, JavaScript, PHP, HTML, and SQL. I also use a bunch of tools and frameworks including TensorFlow, Keras, PyTorch, Scikitlearn, MLflow, Ollama, Hugging Face, and OpenCV. When it comes to data, I regularly use libraries like NumPy, Pandas, Matplotlib, Seaborn, and SciPy for analysis and visualization. I’ve also worked with cloud platforms and deployment tools like AWS, Google Cloud, and Docker.
-
-Besides the technical stuff, I’m a good communicator, a team player, and someone who enjoys taking the lead when needed. I’ve also managed events and have a creative side; I love doing graphic design too.
-I’m always up for learning new things, working on exciting projects, and teaming up with others to build smart and useful AI solutions.</h4>
+Besides the technical stuff, I’m a good communicator, a team player and someone who enjoys taking the lead when needed. I’ve also managed events and have a creative side; I love doing graphic design too. I’m always up for learning new things, working on exciting projects and teaming up with others to build smart and useful AI solutions.</h4>
 
 - 🔭 I’m currently working at **mPower Social Enterprises Ltd.**
 
