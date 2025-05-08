@@ -14,7 +14,7 @@ I’m always up for learning new things, working on exciting projects, and teami
 
 - 📫 How to reach me **meraz.afridi@gmail.com**
 
-- 📄 Know about my experiences [Resume of Gazi Meraz Mehedi](https://drive.google.com/file/d/14iwqUKZVtdwraMI0St1linhlq5LE1ul4/view?usp=sharing)
+- 📄 Know about my experiences [Resume of Gazi Meraz Mehedi Afridi](https://drive.google.com/file/d/14iwqUKZVtdwraMI0St1linhlq5LE1ul4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
