@@ -5,7 +5,7 @@ I’m comfortable working with languages like Python, Java, C, C++, JavaScript, 
 
 Besides the technical stuff, I’m a good communicator, a team player and someone who enjoys taking the lead when needed. I’ve also managed events and have a creative side; I love doing graphic design too. I’m always up for learning new things, working on exciting projects and teaming up with others to build smart and useful AI solutions.</h4>
 
-- 🔭 I’m currently working at **mPower Social Enterprises Ltd.**
+- 🔭 I’m currently working at ** [10 Minute School, Bangladesh's Largest Edtech](https://www.linkedin.com/company/10ms/posts/?feedView=all) **
 
 - 👨‍💻 All of my projects are available at [https://github.com/merazAfridi](https://github.com/merazAfridi)
 
