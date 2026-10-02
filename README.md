@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Gazi Meraz Mehedi Afridi</h1>
-<h4 align="left">I'm a Computer Science graduate with a strong interest in Artificial Intelligence and its real world applications. I focus on areas like Machine Learning, Deep Learning, Natural Language Processing and Computer Vision. I’ve worked on a variety of projects involving data science, pattern recognition, predictive modeling and image processing.
-  
-I’m comfortable working with languages like Python, Java, C, C++, JavaScript, PHP, HTML, and SQL. I also use a bunch of tools and frameworks including TensorFlow, Keras, PyTorch, Scikitlearn, MLflow, Ollama, Hugging Face and OpenCV. When it comes to data, I regularly use libraries like NumPy, Pandas, Matplotlib, Seaborn, and SciPy for analysis and visualization. I’ve also worked with cloud platforms and deployment tools like AWS, Google Cloud and Docker.
+<h1 align="center">Hi 👋, I am Gazi Meraz Mehedi Afridi</h1>
+<h4 align="left">I am really into Machine Learning, Computer Vision and NLP. Most of what I build falls somewhere in there, from Image Segmentation and Predictive Models to LLMs and RAG systems. I also work on Full Stack Web Development.
 
-Besides the technical stuff, I’m a good communicator, a team player and someone who enjoys taking the lead when needed. I’ve also managed events and have a creative side; I love doing graphic design too. I’m always up for learning new things, working on exciting projects and teaming up with others to build smart and useful AI solutions.</h4>
+Right now I work at 10 Minute School, where I automate a lot of the repetitive work in content management, do Data Analysis and build dashboards, handle the ERP, build web apps for different events and work on R&D for products and new features. Before that I was a research intern at mPower, working on an AI based knowledge management system.
 
-- 🔭 I’m currently working at [10 Minute School, Bangladesh's Largest Edtech](https://www.linkedin.com/company/10ms/posts/?feedView=all)
+I mostly work with Python and PyTorch, along with tools like Hugging Face, LangChain, Ollama, FAISS and MLflow. For web projects I usually use React, Tailwind CSS and Flask. I have also worked with AWS, Google Cloud, Cloudflare and Docker. Outside of code I enjoy doing a bit of Graphic Design.</h4>
+
+- 🔭 I am currently working at [10 Minute School, Bangladesh's Largest Edtech](https://www.linkedin.com/company/10ms/posts/?feedView=all)
 
 - 👨‍💻 All of my projects are available at [https://github.com/merazAfridi](https://github.com/merazAfridi)
+
+- 🌐 Check out my portfolio at [meraz-mehedi-portfolio.vercel.app](https://meraz-mehedi-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/meraz-afridi/](https://www.linkedin.com/in/meraz-afridi/)
 
 - 📫 How to reach me **meraz.afridi@gmail.com**
 
-- 📄 Know about my experiences [Resume of Gazi Meraz Mehedi Afridi](https://drive.google.com/file/d/14iwqUKZVtdwraMI0St1linhlq5LE1ul4/view?usp=sharing)
+- 📄 Know about my experiences [Resume of Gazi Meraz Mehedi Afridi](https://drive.google.com/file/d/1wb8CHLLH2U4g8fd1B9NJMNJ9bClGym0O/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
