@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I am Gazi Meraz Mehedi Afridi</h1>
 <h4 align="left">I am really into Machine Learning, Computer Vision and NLP. Most of what I build falls somewhere in there, from Image Segmentation and Predictive Models to LLMs and RAG systems. I also work on Full Stack Web Development.
 
+
 Right now I work at 10 Minute School, where I automate a lot of the repetitive work in content management, do Data Analysis and build dashboards, handle the ERP, build web apps for different events and work on R&D for products and new features. Before that I was a research intern at mPower, working on an AI based knowledge management system.
+
 
 I mostly work with Python and PyTorch, along with tools like Hugging Face, LangChain, Ollama, FAISS and MLflow. For web projects I usually use React, Tailwind CSS and Flask. I have also worked with AWS, Google Cloud, Cloudflare and Docker. Outside of code I enjoy doing a bit of Graphic Design.</h4>
 
